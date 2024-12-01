@@ -1,17 +1,17 @@
 <h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
-<h2 align="center"><samp>Hi 👋 I'm Sugith K</samp></h2>
-<h3 align="center"><samp>A software developer from India</samp> </h3>
+<h2 align="center"><samp>Hi 👋 I'm Pavel P</samp></h2>
+<h3 align="center"><samp>A software developer from Russia</samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
+[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="technicaldeveloper" /> </p>)
 
-<div style="margin-bottom: 200px;"></div>
+[//]: # (<div style="margin-bottom: 200px;"></div>)
 
-<samp>- 📫 Reach me at https://www.linkedin.com/in/sugith10/</samp>
+<samp>- 📫 Reach me at </samp>
 
-<samp>- 📫 Reach me at sugithkodappurath@gmail.com</samp>
+<samp>- 📫 Reach me at me@cpl3studio.space</samp>
 
 <samp>- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter 💙</samp>
 
@@ -120,7 +120,7 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
-       
+
   </tr>
  <tr>
         <td align="center" width="100">
@@ -163,9 +163,9 @@
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
   <!-- Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugith10&show_icons=true&locale=en&layout=compact" alt="Sugith Top Languages" width="48%" height="200" style="object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TechnicalDeveloper&show_icons=true&locale=en&layout=compact" alt="TechnicalDeveloper Top Languages" width="48%" height="200" style="object-fit: cover;"/>
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sugith10" alt="Sugith GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechnicalDeveloper" alt="TechnicalDeveloper GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
 </div>
 
 <div style="margin-bottom: 60px;"></div>
