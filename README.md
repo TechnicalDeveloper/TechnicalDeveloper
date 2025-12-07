@@ -33,8 +33,8 @@
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechnicalDeveloper&show_icons=true&theme=vue" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicalDeveloper&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=TechnicalDeveloper&show_icons=true&theme=vue" width="48%" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=TechnicalDeveloper&layout=compact" width="48%" />
 </p>
 
 <h3 align="center"><samp>✍️ Random Dev Quote</samp></h3>
