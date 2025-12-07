@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <samp>- 📫 Reach me at me@cpl3studio.space</samp><br>
+  <samp>- 📫 Reach me at https://t.me/cpl3studio</samp><br>
   <samp>- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter 💙</samp><br>
   <samp>- ⌨️ Fun fact: I spend approximately 14 hours coding every day! 💻</samp>
 </p>
