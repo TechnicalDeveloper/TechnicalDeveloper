@@ -200,8 +200,8 @@ philosophy: >
 
 <br>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=TechnicalDeveloper&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechnicalDeveloper&theme=github_dark" width="98%" />
 
 <br><br>
 
