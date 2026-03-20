@@ -200,12 +200,8 @@ philosophy: >
 
 <br>
 
-<!-- Snake contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechnicalDeveloper/TechnicalDeveloper/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechnicalDeveloper/TechnicalDeveloper/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/TechnicalDeveloper/TechnicalDeveloper/output/github-snake-dark.svg" />
-</picture>
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=TechnicalDeveloper&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
 
 <br><br>
 
