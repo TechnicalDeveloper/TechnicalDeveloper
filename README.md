@@ -153,15 +153,41 @@ philosophy: >
 <h2><samp>METRICS</samp></h2>
 
 <p>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TechnicalDeveloper&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  <img width="49%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=TechnicalDeveloper&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+  <samp>Contribution figures below are calendar-derived, so they include private work.<br>
+  Repository-derived cards are omitted: they can only see public repos and understate the total.</samp>
 </p>
 
 <p>
-  <img width="40%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=TechnicalDeveloper&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=TechnicalDeveloper&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TechnicalDeveloper&theme=github_dark" />
 </p>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=TechnicalDeveloper&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechnicalDeveloper&theme=github_dark" />
+
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TechnicalDeveloper&theme=github_dark&utcOffset=3" />
+</p>
+
+<br>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- LIVE SYSTEMS -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<h2><samp>LIVE SYSTEMS</samp></h2>
+
+<p><samp>Monitoring I run against my own production estate. Sampled every three hours by cron<br>
+and committed automatically — the dashboard in that repo is generated, never hand-edited.</samp></p>
+
+<a href="https://github.com/TechnicalDeveloper/pulse">
+  <img src="https://img.shields.io/badge/pulse-TLS_and_availability_monitor-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161b22" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/last-commit/TechnicalDeveloper/pulse?style=flat-square&label=last%20sample&labelColor=161b22&color=58A6FF" />
+<img src="https://img.shields.io/github/commit-activity/m/TechnicalDeveloper/pulse?style=flat-square&label=samples%2Fmonth&labelColor=161b22&color=58A6FF" />
+<img src="https://img.shields.io/badge/dependencies-none-3fb950?style=flat-square&labelColor=161b22" />
 
 <br><br>
 
@@ -200,8 +226,6 @@ philosophy: >
 
 <br>
 
-<!-- Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechnicalDeveloper&theme=github_dark" width="98%" />
 
 <br><br>
 
