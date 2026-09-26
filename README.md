@@ -43,8 +43,10 @@ I am a software engineer focused on building resilient, high-load architecture a
   <img width="49%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=TechnicalDeveloper&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
+<br>
+
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TechnicalDeveloper&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" />
+  <img src="https://ghchart.rshah.org/58A6FF/TechnicalDeveloper" alt="GitHub Contribution Chart" />
 </p>
 
 </div>
