@@ -39,12 +39,12 @@ I am a software engineer focused on building resilient, high-load architecture a
 ### GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TechnicalDeveloper&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicalDeveloper&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=TechnicalDeveloper&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+  <img width="49%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=TechnicalDeveloper&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TechnicalDeveloper&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=0d1117" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TechnicalDeveloper&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" />
 </p>
 
 </div>
