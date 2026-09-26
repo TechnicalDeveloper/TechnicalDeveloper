@@ -1,45 +1,50 @@
 <div align="center">
 
-<a href="https://github.com/TechnicalDeveloper">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=init_+System.boot();%3E+_whoami;Pavel+P.+%E2%80%94+Software+Engineer;%3E+Architecting+Scalable+Systems;%3E+Building+Next-Gen+Products" alt="Typing SVG" />
-</a>
+# Pavel P.
+**Software Engineer & System Architect**
 
-<p align="center">
-  <samp><b>Full-Stack & Mobile Architect &nbsp;·&nbsp; Cloud-Native Systems</b></samp>
-  <br>
-  <samp><i>Building high-performance digital products at scale.</i></samp>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cpl3studio)
+![Profile Views](https://komarev.com/ghpvc/?username=TechnicalDeveloper&style=for-the-badge&color=0d1117&labelColor=161b22&label=Profile+Views)
+
+---
+
+### Professional Summary
+I am a software engineer focused on building resilient, high-load architecture and cross-platform applications. My core expertise lies in designing scalable backend infrastructure, developing seamless e-commerce integrations, and automating complex business logic. Every system I build is designed for high performance, maintainability, and horizontal scaling.
+
+### Engineering Focus
+* **Backend & Cloud Architecture:** Structuring high-performance APIs and scalable data layers using PostgreSQL and Supabase.
+* **E-Commerce & Automation:** Developing robust infrastructure for digital storefronts and automated bot ecosystems.
+* **Cross-Platform Development:** Delivering native-feeling mobile and web experiences using modern front-end frameworks.
+* **DevOps & CI/CD:** Streamlining deployment pipelines and managing containerized environments.
+
+---
+
+### Technical Arsenal
+
+**Frontend & Mobile**<br>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,flutter,swift,dart" />
 
 <br>
 
-<p align="center">
-  <a href="https://t.me/cpl3studio">
-    <img src="https://img.shields.io/badge/Telegram-CONTACT_ME-0d1117?style=for-the-badge&logo=telegram&logoColor=39D353&labelColor=161b22&border=39D353" alt="Telegram" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=TechnicalDeveloper&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+**Backend & Database**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,supabase,redis,graphql" />
 
 <br>
 
-<h2><samp>&gt; ./about_me.sh</samp></h2>
+**DevOps & Infrastructure**<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,githubactions,linux" />
 
-<table align="center" width="800">
-<tr><td align="left">
+---
 
-<samp>
+### GitHub Analytics
 
-```yaml
-name: Pavel P.
-alias: TechnicalDeveloper
-role: Software Engineer
-location: Remote
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TechnicalDeveloper&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicalDeveloper&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" />
+</p>
 
-current_focus:
-  - Scalable E-commerce Platforms
-  - Automated Economy & Trading Bots
-  - Backend Optimization (Postgres/Supabase)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TechnicalDeveloper&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=0d1117" />
+</p>
 
-philosophy: >
-  Ship fast. Scale smart.
-  Every system I build is designed
-  to handle 10x its current load.
+</div>
